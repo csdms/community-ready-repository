@@ -1,0 +1,7 @@
+# This file is used to specify files and directories that should be ignored by Git
+# when committing changes to the repository. For more information on how to use
+# .gitignore, see the Git documentation: https://git-scm.com/docs/gitignore.
+
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
