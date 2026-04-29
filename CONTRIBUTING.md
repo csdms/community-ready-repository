@@ -5,6 +5,6 @@ It should include instructions for how to submit issues and pull requests, as we
 
 Examples of CONTRIBUTING files:
 
-* the CSDMS project [CONTRIBUTING](https://github.com/csdms/project/blob/main/CONTRIBUTING.md) document.
-* Landlab's [CONTRIBUTING](https://github.com/landlab/landlab/blob/master/CONTRIBUTING.md) document.
-* the NumPy project's [CONTRIBUTING](https://numpy.org/doc/stable/dev/index.html#contributing-to-numpy) document.
+* the CSDMS project [CONTRIBUTING](https://github.com/csdms/project/blob/main/CONTRIBUTING.md) document
+* Landlab's [CONTRIBUTING](https://github.com/landlab/landlab/blob/master/CONTRIBUTING.md) document
+* [Contributing to NumPy](https://numpy.org/doc/stable/dev/index.html#contributing-to-numpy)
