@@ -1,0 +1,39 @@
+# YAML 1.2
+#
+# The CITATION.cff is a standard file format for software citation metadata.
+# Learn more about the CITATION.cff file at https://citation-file-format.github.io/,
+# and use the web-based generator to create/update citation files.
+#
+# Examples of CITATION.cff files:
+# * the Pandas [CITATION.cff](https://github.com/pandas-dev/pandas/blob/main/CITATION.cff) file
+# * the Landlab [CITATION.cff](https://github.com/landlab/landlab/blob/master/CITATION.cff)
+# * the CoCoLessons [CITATION.cff](https://github.com/CodeToCommunicate/CoCoLessons/blob/main/CITATION.cff) file
+---
+cff-version: 1.2.0
+title: "CSDMS Community-Ready Repository"
+message: >-
+  If you use this software, please cite it as below.
+type: software
+authors:
+  - family-names: Piper
+    given-names: Mark
+    orcid: "https://orcid.org/0000-0001-6418-277X"
+  - family-names: Hutton
+    given-names: Eric
+    orcid: "https://orcid.org/0000-0002-5864-6459"
+  - family-names: Gan
+    given-names: Tian
+    orcid: "https://orcid.org/0000-0003-3624-6910"
+url: "https://github.com/csdms/community-ready-repository"
+abstract: >-
+  A demonstration/teaching repository with standard files for an
+  open-source software project in the Earth sciences.
+keywords:
+  - csdms
+  - open-source
+  - software
+  - earth science
+  - FAIR
+license: MIT
+version: 0.1.0
+date-released: 2026-05-19
