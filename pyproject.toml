@@ -1,0 +1,18 @@
+[build-system]
+requires = [
+    "setuptools",
+    "wheel",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "diffusion-model"
+version = "0.1.0"
+dependencies = [
+    "matplotlib",
+    "mpl_ascii",
+    "numpy",
+]
+
+[tool.setuptools]
+py-modules = ["diffusion_model"]
