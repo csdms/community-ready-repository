@@ -48,3 +48,11 @@ References are provided for each topic for further exploration.
 
 Participants will leave with a clear, practical template for sharing scientific software
 in a way that supports reuse, citation, and long-term community engagement.
+
+## Acknowledgements
+
+The contents of this repository were developed for use in an educational clinic
+at the 2026 CSDMS Annual Meeting.
+Funding for this work was provided by the U.S. National Science Foundation (NSF)
+under grant number [2148762](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148762),
+*Collaborative Research: Facility: CSDMS: Engaging a thriving community of practice in Earth-surface dynamics*.
