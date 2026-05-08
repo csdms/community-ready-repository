@@ -1,4 +1,4 @@
-# community-ready-repository
+# Building a "community-ready" repository
 
 Do you have code that you'd like to share with others--maybe you've written a
 model for your thesis, or perhaps you're required to do so by a journal--but you're
@@ -13,13 +13,20 @@ Second, we'll configure a GitHub repository
 with files and services that will help make the code
 FAIR and sustainable over time--a "community-ready" repository.
 
-The following topics address what could be included in such a repository. While we
-probably won't be able to cover all of these in the clinic, we list them for reference.
+## Topics
+
+The following topics address what could be included in a "community-ready" repository.
+While we may not be able to cover all of these,
+we list them for reference.
+
+### Part 1: Setting up a repository
 
 * Configuring *git* and GitHub
 * Initializing a *git* repository on GitHub
 * Choosing a software license
 * Cloning the repository and setting up a local development environment
+
+### Part 2: Packaging and sharing code
 
 * Packaging, using guidance from the Python Packaging Authority (PyPA)
 * Automating repository tasks with *nox*
@@ -28,12 +35,14 @@ probably won't be able to cover all of these in the clinic, we list them for ref
 * Continuous integration with GitHub Actions
 * Building documentation with *sphinx*
 
-* Adding a Digital Object Identifier (DOI) with Zenodo
+### Part 3: Adding community health files
+
 * Including instructions for contributors, and a code of conduct
 * Crediting contributors
-* Creating a citation file with *cffinit*
 * Acknowledging funding support
+* Creating a citation file with *cffinit*
 * Writing an informative README (and adding status badges!)
+* Adding a Digital Object Identifier (DOI) with Zenodo
 
 References are provided for each topic for further exploration.
 
