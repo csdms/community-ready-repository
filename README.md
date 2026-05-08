@@ -20,17 +20,18 @@ and sustainable over time--a "community-ready" repository.
 The following topics address what could be included in a "community-ready" repository.
 While we may not be able to cover all of these,
 we list them for reference.
+References are provided for most topics for further exploration.
 
 ### Part 1: Setting up a repository
 
-* Configuring *git* and GitHub
+* Configuring *git* and GitHub ([ref](https://github.com/csdms/ivy/blob/main/lessons/git/index.md))
 * Initializing a *git* repository on GitHub
-* Choosing a software license
-* Cloning the repository and setting up a local development environment
+* Choosing an open-source software license ([ref](https://github.com/readme/guides/open-source-licensing))
+* Cloning the repository and setting up a local development environment ([ref](https://docs.python.org/3/library/venv.html), [ref](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/))
 
 ### Part 2: Packaging and sharing code
 
-* Packaging, using guidance from the Python Packaging Authority (PyPA)
+* Packaging, using guidance from the [Python Packaging Authority](https://packaging.python.org) (PyPA)
 * Automating repository tasks with *nox*
 * Linting and formatting code with *black*, *flake8*, and *pre-commit*
 * Unit testing with *pytest*
@@ -42,11 +43,9 @@ we list them for reference.
 * Including instructions for contributors, and a code of conduct
 * Crediting contributors
 * Acknowledging funding support
-* Creating a citation file with *cffinit*
-* Writing an informative README (and adding status badges!)
+* Creating a citation file with *cffinit* ([ref](https://citation-file-format.github.io/))
+* Writing an informative README ([ref](https://onegoodtutorial.org/))
 * Adding a Digital Object Identifier (DOI) with Zenodo
-
-References are provided for each topic for further exploration.
 
 Participants will leave with a clear, practical template for sharing scientific software
 in a way that supports reuse, citation, and long-term community engagement.
