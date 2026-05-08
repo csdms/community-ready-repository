@@ -19,8 +19,8 @@ and sustainable over time--a "community-ready" repository.
 
 The following topics address what could be included in a "community-ready" repository.
 While we may not be able to cover all of these,
-we list them for reference.
-References are provided for most topics for further exploration.
+we list them for reference,
+with links to resources for further exploration.
 
 ### Part 1: Setting up a repository
 
