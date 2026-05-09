@@ -50,7 +50,7 @@ with links to resources for further exploration.
 Participants will leave with a clear, practical template for sharing scientific software
 in a way that supports reuse, citation, and long-term community engagement.
 
-## Acknowledgements
+## Acknowledgments
 
 The contents of this repository were developed for use in an educational clinic
 at the 2026 CSDMS Annual Meeting.
