@@ -7,15 +7,15 @@ including its purpose, features, and how to get started.
 From the [One Good Tutorial](https://onegoodtutorial.org/) project,
 a good README should include the following:
 
--[] 🗺️ Synopsis: 1–3 sentence summary of your project
--[] 📑 Tutorial: ✨ Show people what your software can do! ✨
--[]	👩‍🔧 Contact Information: How to ask a human about your software
--[]	🚀 Install Instructions: How to install your software
--[]	📜 Citation Instructions: How to cite your software
--[]	🙌 Contribution Statement: How users can contribute to your project
--[]	📚 Reference Material: Precise specifications of APIs, etc.
--[]	⚖️ Licensing Statement: The legal status of your code
--[]	🙏 Acknowledgments: Credit your funders
+- [ ] 🗺️ Synopsis: 1–3 sentence summary of your project
+- [ ] 📑 Tutorial: ✨ Show people what your software can do! ✨
+- [ ]	👩‍🔧 Contact Information: How to ask a human about your software
+- [ ]	🚀 Install Instructions: How to install your software
+- [ ]	📜 Citation Instructions: How to cite your software
+- [ ]	🙌 Contribution Statement: How users can contribute to your project
+- [ ]	📚 Reference Material: Precise specifications of APIs, etc.
+- [ ]	⚖️ Licensing Statement: The legal status of your code
+- [ ]	🙏 Acknowledgments: Credit your funders
 
 ## Acknowledgments
 
