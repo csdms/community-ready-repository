@@ -28,5 +28,10 @@ Examples of good README files include:
 
 ## Acknowledgments
 
-These materials were initially prepared following version 1
+The contents of this repository were developed for use in an educational clinic
+at the 2026 CSDMS Annual Meeting.
+The materials were initially prepared following version 1
 of the [One Good Tutorial software documentation checklist](https://onegoodtutorial.org/).
+Funding for this work was provided by the U.S. National Science Foundation (NSF)
+under grant number [2148762](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148762),
+*Collaborative Research: Facility: CSDMS: Engaging a thriving community of practice in Earth-surface dynamics*.
