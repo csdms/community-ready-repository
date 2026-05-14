@@ -7,7 +7,7 @@ From the [One Good Tutorial](https://onegoodtutorial.org/) project,
 a good README should include the following
 (presented here as a handy checklist):
 
-- [ ] 🗺️ Synopsis: 1–3 sentence summary of your project
+- [ ] 🗺️ Synopsis: 1-3 sentence summary of your project
 - [ ] 📑 Tutorial: ✨ Show people what your software can do! ✨
 - [ ]	👩‍🔧 Contact Information: How to ask a human about your software
 - [ ]	🚀 Install Instructions: How to install your software
@@ -19,11 +19,11 @@ a good README should include the following
 
 Examples of good README files include:
 
-* the Landlab [README](https://github.com/landlab/landlab/)
-* the Matplotlib [README](https://github.com/matplotlib/matplotlib/)
-* the Xarray [README](https://github.com/pydata/xarray/)
-* the CoMSES Skills repository [README](https://github.com/comses/skills)
-* the SoilGrids Data Component [README](https://github.com/gantian127/soilgrids)
+* [Landlab](https://github.com/landlab/landlab/)
+* [Matplotlib](https://github.com/matplotlib/matplotlib/)
+* [Xarray](https://github.com/pydata/xarray/)
+* [CoMSES Skills repository](https://github.com/comses/skills)
+* [SoilGrids Data Component](https://github.com/gantian127/soilgrids)
 
 ## Acknowledgments
 
