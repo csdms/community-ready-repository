@@ -2,7 +2,6 @@
 
 The README file is the first thing that users see when they visit your repository.
 It should provide a clear and concise overview of your project.
-including its purpose, features, and how to get started.
 
 From the [One Good Tutorial](https://onegoodtutorial.org/) project,
 a good README should include the following
