@@ -1,5 +1,3 @@
-import os
-import sys
 import tomllib
 
 import numpy as np
@@ -95,23 +93,3 @@ def load_params_from_path(filepath):
     with open(filepath, "rb") as stream:
         params = tomllib.load(stream)
     return params
-
-
-if __name__ == "__main__":
-    import matplotlib as mpl
-    import mpl_ascii
-
-    mpl_ascii.AXES_WIDTH = 70
-    mpl_ascii.AXES_HEIGHT = 15
-
-    mpl.use("module://mpl_ascii")
-
-    filepath = "diffusion.toml"
-
-    if os.path.isfile(filepath):
-        params = load_params_from_path(filepath)
-    else:
-        params = {}
-    concentration = run_diffusion_model(**params)
-
-    np.savetxt(sys.stdout, concentration, fmt="%.6f")

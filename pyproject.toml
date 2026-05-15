@@ -14,5 +14,8 @@ dependencies = [
     "numpy",
 ]
 
-[tool.setuptools]
-py-modules = ["diffusion_model"]
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
